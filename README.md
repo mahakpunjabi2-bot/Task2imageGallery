@@ -7,7 +7,8 @@ It is an Interactive Image Gallery built using HTML, CSS, and JavaScript with fi
 
 ⸻
 
-✨ Features
+✨<b> Features</b>
+
 	•	📂 Filter images by category (Sun, Moon, Mountain, Ocean)
 	•	🎨 Attractive background with hover effects
 	•	📱 Responsive design for all screen sizes
