@@ -1,13 +1,13 @@
 ⸻
 
-🌄 Image Gallery – CodeAlpha Task 2
+🌄 <h1><b>Image Gallery – CodeAlpha Task 2</b></h1>
 
 This project is created as part of my CodeAlpha Internship – Task 2.
 It is an Interactive Image Gallery built using HTML, CSS, and JavaScript with filters and responsive design.
 
 ⸻
 
-✨<b> Features</b>
+✨<h2><b> Features</b></h2>
 
 	•	📂 Filter images by category (Sun, Moon, Mountain, Ocean)
 	•	🎨 Attractive background with hover effects
@@ -16,7 +16,7 @@ It is an Interactive Image Gallery built using HTML, CSS, and JavaScript with fi
 
 ⸻
 
-🛠 Tech Stack
+🛠 <h2>Tech Stack</h2>
 	•	HTML5 – Structure & content
 	•	CSS3 – Styling & layout
 	•	JavaScript – Functionality & interactivity
