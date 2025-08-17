@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1 class="gallery-title">Image Gallery</h1>
+
+  <!-- Filter Buttons -->
+  <div class="filter-buttons">
+    <button onclick="filterSelection('all')">All</button>
+    <button onclick="filterSelection('sun')">Sun</button>
+    <button onclick="filterSelection('moon')">Moon</button>
+    <button onclick="filterSelection('mountain')">Mountain</button>
+    <button onclick="filterSelection('ocean')">Ocean</button>
+  </div>
+
+  <!-- Gallery Images -->
+  <div class="gallery-container">
+    <div class="image-card sun">
+      <img src="https://cdn.pixabay.com/photo/2018/03/30/13/01/sun-3275314_640.jpg" alt="Sun">
+    </div>
+    <div class="image-card moon">
+      <img src="https://tse3.mm.bing.net/th/id/OIP.wbGV9xm9IoyxUuKkQxJkdwHaEo?pid=Api&P=0&h=220" alt="Moon">
+    </div>
+    <div class="image-card mountain">
+      <img src="https://tse3.mm.bing.net/th/id/OIP.uqbJO_Wb6F1X9xKCo9kn-AHaE8?pid=Api&P=0&h=220" alt="Mountain">
+    </div>
+    <div class="image-card ocean">
+      <img src="https://tse1.mm.bing.net/th/id/OIP.kiG0uF82gsPiv9aASAaiBQHaEK?pid=Api&P=0&h=220" alt="Ocean">
+    </div>
+  </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
